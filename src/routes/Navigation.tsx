@@ -25,15 +25,7 @@ export const Navigation = () => {
                 </li>
               ))
             }
-            {/* <li>
-              <NavLink to="/lazy1" activeClassName="nav-active" exact>Lazy 1</NavLink>
-            </li>
-            <li>
-              <NavLink to="/lazy2" activeClassName="nav-active" exact>Lazy 2</NavLink>
-            </li>
-            <li>
-              <NavLink to="/lazy3" activeClassName="nav-active" exact>Lazy 3</NavLink>
-            </li> */}
+            
           </ul>
         </nav>
 
